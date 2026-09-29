@@ -1,8 +1,8 @@
-# Ana başlık
+# ***Ana başlık***
 
-## İkinci başlık 
+## **İkinci başlık** 
 
-### Alt başlık
+### *Alt başlık*
 
 merhaba
 
